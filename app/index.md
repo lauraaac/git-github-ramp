@@ -10,10 +10,6 @@ Welcome to _Onlyrics_, the only place on the planet where your ears won't be dis
 
 [Fluorescent Adolescent](song/feb/fluorescent_adolescent.md)
 
-### [Jhon Lennon](writer/john_lennon.md)
-
-[Imagine](song/feb/vanilla-panna-cotta.md)
-
 ### [Queen](writer/queen.md)
 
 [We Are The Champions](song/feb/we_are_the_champions.md)
